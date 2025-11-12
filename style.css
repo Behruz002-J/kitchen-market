@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* background-color: #000; */
+  /* margin: 0 335px; */
+}
+
+.container {
+  max-width: 100%; 
+  margin: 0 auto;    
+}
+
+header {
+  background-image: url(./assets/images/slide\ 1.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 811px;
+}
+
+.nav-wrapper {
+  background-color: rgba(0, 0, 0, 0.774);
+  height: 211px;
+}
+
+.work-type {
+  display: flex;
+  width: 1250px;
+  /* padding: 14px 336px; */
+  margin: 0 auto;
+  padding-top: 14px;
+  justify-content: space-between;
+  margin-top: 14px;
+  /* gap: 641px; */
+}
+
+.city-left,
+.call-right {
+  display: flex;
+  gap: 66px;
+justify-content: start;
+}
+.city-left p {
+    color: #FFFFFF;
+}
+.call-right span,p {
+    color: #FFFFFF;
+    font-family: Montserrat;
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+} 
+.call-right a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.logo-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1246px; 
+  height: 73px;
+  margin: 0 auto;
+  /* padding: 0 335px; */
+  text-align: center;
+  opacity: 1;
+  display: flex;
+  border: 1px solid white;
+  margin-top: 58px;
+}
+.logo-icon .menu {
+display: flex;
+align-items: center;
+gap: 12PX;
+}
+.find-product img {
+    margin-right: 24px;
+}
+.group-ul {
+    width: 1250px;
+    margin-right: 63px;
+}
+.group-ul ul {
+  display: flex;
+  align-items: center;
+  gap: 63px;
+  padding:0 336px;
+  list-style: none;
+  margin-top: 36px;
+}
+.group-ul ul li a {
+    font-family: Montserrat;
+font-weight: 500;
+font-size: 20px;
+text-decoration: none;
+line-height: 140%;
+letter-spacing: 0%;
+    color: rgba(255, 255, 255, 1);
+}
+.option2 {
+    display: flex;
+align-items: center;
+}
+.about {
+    display: flex;
+    margin-top: 105px;
+    gap: 460px;
+}
+.texts h1 {
+    font-family: Montserrat;
+font-weight: 800;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.about p {
+    font-family: Montserrat;
+font-weight: 400;
+font-size: 28px;
+line-height: 100%;
+letter-spacing: 3%;
+margin-top: 8px;
+}
+.dot img{
+vertical-align: top;
+align-items: center;
+gap: 19px;
+/* padding-top: 62px; */
+margin-top: 19.15px;
+    display: block;
+}
+.gold-sink {
+    
+}
