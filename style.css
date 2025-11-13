@@ -436,3 +436,118 @@ color: #ffffff;
 .buy:hover {
   background-color: rgb(255, 72, 0);
 }
+.company-title {
+  width: 1094;
+height: 2048;
+opacity: 1;
+margin: 130px 491px 132px 335px;
+}
+.container {
+  justify-content: start;
+  margin: 0 auto;
+}
+.company-welcome {
+  font-family: Montserrat;
+font-weight: 600;
+font-size: 20px;
+margin-left: 217px;
+line-height: 150%;
+letter-spacing: 2%;
+color: rgba(51, 51, 51, 1);
+}
+.next-page {
+  margin-left: 217px;
+  margin-top: 40px;
+}
+.next-page p {
+  color: rgba(51, 51, 51, 1);
+  font-family: Montserrat;
+font-weight: 400;
+font-size: 20px;
+/* margin-left: 217px; */
+line-height: 150%;
+letter-spacing: 2%;
+}
+.character {
+  margin-left: 217px;
+}
+.one-text  {
+  gap: 27px;
+  margin-top: 30px;
+  margin-top: 10px;
+}
+.one-text p {
+  color: rgba(51, 51, 51, 1);
+  font-family: Montserrat;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+letter-spacing: 2%;
+margin-left: 27px;
+}
+.company-holding {
+  margin-left: 217px;
+  margin-top: 30px;
+
+}
+.company-holding p{
+  color: rgba(51, 51, 51, 1);
+  font-family: Montserrat;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+letter-spacing: 2%;
+}
+.character2 {
+  margin-left: 217px;
+  margin-top: 30px;
+}
+ .text2 p{
+margin-left: 27px;
+color: rgba(51, 51, 51, 1);
+font-family: Montserrat;
+font-weight: 400;
+font-size: 20px;
+line-height: 2.2;
+letter-spacing: 2%;
+}
+.list3 {
+  padding-left: 27px;
+}
+.list3 h1 {
+  font-family: Montserrat;
+font-weight: 700;
+font-size: 32px;
+margin-top: 60px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+}
+.site-list {
+margin-left: 244px;
+
+}
+.list {
+  margin-top: 30px;
+}
+.list p {
+  color: rgba(51, 51, 51, 1);
+font-family: Montserrat;
+font-weight: 400;
+font-size: 20px;
+line-height: 1;
+letter-spacing: 2%;
+}
+.list4 {
+  margin-left: 217px;
+  margin-top: 30px;
+}
+.list4 p {
+    color: rgba(51, 51, 51, 1);
+  color: rgba(51, 51, 51, 1);
+font-family: Montserrat;
+font-weight: 400;
+font-size: 20px;
+line-height: 1;
+letter-spacing: 2%;
+}
